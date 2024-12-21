@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: beige;
+    font-family: Arial, sans-serif;
+}
+.hello-text {
+    color: black;
+    font-size: 2em;
+}
